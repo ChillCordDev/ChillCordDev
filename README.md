@@ -1,6 +1,7 @@
 ![Banner uwu ❤️](https://media.discordapp.net/attachments/734686866690932767/825343235920363530/image0.png)
 
 - 👋 Hey there, I’m a Pretty Chill Canadian based Freelance Full Stack Software Developer
+
 👀 __**I’m interested in:**__
 * Coding, Gaming and Ice Cream ❤️
 
