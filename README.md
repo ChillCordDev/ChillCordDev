@@ -3,11 +3,14 @@
 - 👋 Hey there, I’m a Pretty Chill Canadian based Freelance Full Stack Software Developer
 👀 __**I’m interested in:**__
 * Coding, Gaming and Ice Cream ❤️
-- 🌱 __**I’m currently learning:**__ 
-* PHP, SysAdmin, CPanel, Bubble Apps & Lavalink
-- 💞️ __**I’m looking to collaborate on:**__ 
+
+🌱 __**I’m currently learning:**__ 
+* PHP, SysAdmin, CPanel & Bubble Apps 
+
+💞️ __**I’m looking to collaborate on:**__ 
 * Nothing, lol you wish 😉
-- 📫 __**How to reach me:**__
+
+📫 __**How to reach me:**__
 * Hmm, Good question. Discord: PrettyChillDev#5831
 
 ---
