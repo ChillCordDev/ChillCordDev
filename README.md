@@ -1,13 +1,13 @@
 ![Banner uwu ❤️](https://media.discordapp.net/attachments/734686866690932767/825343235920363530/image0.png)
 
 - 👋 Hey there, I’m a Pretty Chill Canadian based Freelance Full Stack Software Developer
-- 👀 I’m interested in: 
+👀 __**I’m interested in:**__
 * Coding, Gaming and Ice Cream ❤️
-- 🌱 I’m currently learning: 
+- 🌱 __**I’m currently learning:**__ 
 * PHP, SysAdmin, CPanel, Bubble Apps & Lavalink
-- 💞️ I’m looking to collaborate on: 
+- 💞️ __**I’m looking to collaborate on:**__ 
 * Nothing, lol you wish 😉
-- 📫 How to reach me: 
+- 📫 __**How to reach me:**__
 * Hmm, Good question. Discord: PrettyChillDev#5831
 
 ---
