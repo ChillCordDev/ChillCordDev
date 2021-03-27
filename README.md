@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ChillCordDev a Canadian based Full Stack Software Developer
+- 👀 I’m interested in: Coding, Gaming and Ice Cream ❤️
+- 🌱 I’m currently learning: PHP, SysAdmin, CPanel, Bubble Apps
+- 💞️ I’m looking to collaborate on: Nothing, lol you wish 😉
+- 📫 How to reach me: Hmm, Good question. Discord: PrettyChillDev#5831
