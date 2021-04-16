@@ -18,7 +18,7 @@
 
 ## GitHub Statistics
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChillCordDev&show_icons=true&theme=dracula" alt="PrettyChillDev" height="200"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChillCordDev&hide=lua&theme=dracula" alt="PrettyChillDev's github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChillCordDev&theme=dracula" alt="PrettyChillDev's github stats"/>
 <div><img src="https://github-profile-trophy.vercel.app/?username=ChillCordDev&theme=dracula" width="1200"></div>
 
 ---
